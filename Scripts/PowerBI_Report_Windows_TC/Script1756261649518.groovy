@@ -29,7 +29,7 @@ WebUI.delay(5)
 // Đặt các biến cấu hình trực tiếp trong script Katalon
 String user = 'linh.nguyen@katalon.com'
 
-String password = 'Betaodethuong91!@#'
+String password = ''
 
 String workspaceName = 'My workspace'
 
