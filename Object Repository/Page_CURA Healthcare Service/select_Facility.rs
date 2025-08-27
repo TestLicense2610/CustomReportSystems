@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Facility</name>
+   <tag></tag>
+   <elementGuidId>adfa9054-658c-456e-a280-22abe7b0f312</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'combo_facility']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combo_facility</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Facility&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>322f8ca9-147a-4f9b-af51-2f3aa94e9f64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>combo_facility</value>
+      <webElementGuid>7093cac2-2392-462e-bf86-fa5098fa1257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>facility</value>
+      <webElementGuid>11fb50d1-5b2c-47e9-8633-83a4e520530a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>cace80d7-b2a5-4182-bf02-f5eb3bd9003c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Facility</value>
+      <webElementGuid>d3806d22-b257-467e-b7b2-8f7a1743c663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Tokyo CURA Healthcare Center
+Hongkong CURA Healthcare Center
+Seoul CURA Healthcare Center</value>
+      <webElementGuid>32f301ce-cea8-41df-9bd4-fe75fccd3a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8c454f4065df4b3016aa7b4f2671ee66</value>
+      <webElementGuid>58ff1f79-8d50-44c5-ab7d-6e47ab046ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'combo_facility']</value>
+      <webElementGuid>42bd1e7e-9a9d-4e30-a4b2-5d457da62615</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'combo_facility']</value>
+      <webElementGuid>b28b2095-c5d3-4b29-a58e-b6f9c99f1a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'combo_facility' and @name = 'facility' and (text() = 'Facility' or . = 'Facility')]</value>
+      <webElementGuid>5bbb079b-edc8-451d-8a64-e936758979c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
