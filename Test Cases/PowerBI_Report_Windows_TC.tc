@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PowerBI_Report_Windows_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e9ff322-d366-49ad-a9a6-5db37a0d4622</testCaseGuid>
+</TestCaseEntity>
